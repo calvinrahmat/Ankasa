@@ -13,7 +13,7 @@
 | ![screenshot_4](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845096/Ankasa%20SS/Screenshot_from_2021-09-17_09-16-45_jgsxne.png) Search Schedule| ![screenshot_5](https://res.cloudinary.com/calvin-cloud/image/upload/v1631861609/Ankasa%20SS/Screenshot_from_2021-09-17_09-21-06_wz0d04.png) My Booking  |  ![screenshot_6](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478567/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_m09uzn.png) Chat  | 
 |![screenshot_7](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478569/Ankasa%20SS/Screenshot_from_2021-10-05_20-38-28_ioa5dn.png) Notifications | ![screenshot_8](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478575/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-37_e2wqbf.png) Forgot Password  |
 
-## 🛠️ Deployment Flow
+## :arrows_clockwise: Deployment Flow
 
 You can see this repo to learn about the deployment in Kubernetes:   <a href="https://github.com/calvinrahmat/k8s-install.git">Kubernetes Installation</a>
 

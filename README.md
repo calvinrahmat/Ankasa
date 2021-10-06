@@ -10,8 +10,8 @@
 |  |  |  |
 | :---: | :---: | :---: |
 | ![screenshot_1](https://res.cloudinary.com/calvin-cloud/image/upload/v1631841043/Ankasa%20SS/Screenshot_from_2021-09-17_08-10-22_p21afv.png) Register  | ![screenshot_2](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845166/Ankasa%20SS/Screenshot_from_2021-09-17_09-19-10_ahq9zu.png) Login  | ![screenshot_3](https://res.cloudinary.com/calvin-cloud/image/upload/v1631840613/Ankasa%20SS/Screenshot_from_2021-09-10_08-47-29_lawppz.png) Home |
-| ![screenshot_4](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845096/Ankasa%20SS/Screenshot_from_2021-09-17_09-16-45_jgsxne.png) Search Schedule| ![screenshot_5](https://res.cloudinary.com/calvin-cloud/image/upload/v1631861609/Ankasa%20SS/Screenshot_from_2021-09-17_09-21-06_wz0d04.png) My Booking  |  ![screenshot_6](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478567/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_m09uzn.png) Chat  | 
-|![screenshot_7](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478569/Ankasa%20SS/Screenshot_from_2021-10-05_20-38-28_ioa5dn.png) Notifications | ![screenshot_8](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478575/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-37_e2wqbf.png) Forgot Password  |
+| ![screenshot_4](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845096/Ankasa%20SS/Screenshot_from_2021-09-17_09-16-45_jgsxne.png) Search Schedule| ![screenshot_5](https://res.cloudinary.com/calvin-cloud/image/upload/v1631861609/Ankasa%20SS/Screenshot_from_2021-09-17_09-21-06_wz0d04.png) My Booking  |  ![screenshot_6](https://res.cloudinary.com/calvin-cloud/image/upload/v1633488136/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_bcczuf.png) Chat  | 
+|![screenshot_7](https://res.cloudinary.com/calvin-cloud/image/upload/v1633488090/Ankasa%20SS/Screenshot_from_2021-10-05_20-38-28_k0phfr.png) Notifications | ![screenshot_8](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478575/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-37_e2wqbf.png) Forgot Password  |
 
 ## :arrows_clockwise: Deployment Flow
 

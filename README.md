@@ -7,41 +7,18 @@
 </p>
 <hr/>
 
-<table>
-  <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828719-fed515d9-db65-42f8-a562-a8a69fa865f8.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/133918703-4bdedf54-05d1-40ce-b1e9-c5d258334bc2.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-  </tr>
- <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/135545396-22189df7-9823-4224-835b-e5c7ca8b1c07.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828785-7ebe5ce7-a784-4519-8aee-9bb26d7a274c.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th> 
-      <img src="https://user-images.githubusercontent.com/55304067/134828799-123f485f-b013-4670-864e-ff508fbe3638.png" width="300px" alt="Arkademylogo.svg" />
-   </th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828834-40eb194d-1e2a-481e-addc-b20ed18a01e6.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/135542198-cf3140c1-05f2-49cd-9fff-96b02950f3ff.jpg" width="300px" alt="Arkademylogo.svg" />
-    </th>
-  </tr>
-</table>
+|  |  |  |
+| :---: | :---: | :---: |
+| ![screenshot_1](https://res.cloudinary.com/calvin-cloud/image/upload/v1631841043/Ankasa%20SS/Screenshot_from_2021-09-17_08-10-22_p21afv.png) Register  | ![screenshot_2](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845166/Ankasa%20SS/Screenshot_from_2021-09-17_09-19-10_ahq9zu.png) Login  | ![screenshot_3](https://res.cloudinary.com/calvin-cloud/image/upload/v1631840613/Ankasa%20SS/Screenshot_from_2021-09-10_08-47-29_lawppz.png) Home |
+| ![screenshot_4](https://res.cloudinary.com/calvin-cloud/image/upload/v1631845096/Ankasa%20SS/Screenshot_from_2021-09-17_09-16-45_jgsxne.png) Search Schedule| ![screenshot_5](https://res.cloudinary.com/calvin-cloud/image/upload/v1631861609/Ankasa%20SS/Screenshot_from_2021-09-17_09-21-06_wz0d04.png) My Booking  |  ![screenshot_6](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478567/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_m09uzn.png) Chat  | 
+|![screenshot_7](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478569/Ankasa%20SS/Screenshot_from_2021-10-05_20-38-28_ioa5dn.png) Notifications | ![screenshot_8](https://res.cloudinary.com/calvin-cloud/image/upload/v1633478575/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-37_e2wqbf.png) Forgot Password  |
+
+## 🛠️ Deployment Flow
+
+You can see this repo to learn about the deployment in Kubernetes:   <a href="https://github.com/calvinrahmat/k8s-install.git">Kubernetes Installation</a>
+
+
+  <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1633333761/Blanja%20SS/CI_CD_Flow_page-0001_zykte4.jpg" width="400">
 
 
 

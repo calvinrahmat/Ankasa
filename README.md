@@ -53,7 +53,7 @@ npm start
 
 
 ### `Backend Ticketing Repository`
- <a href="https://github.com/Gustiana882/back-ticketing" target="blank">https://github.com/Gustiana882/back-ticketing</a>
+ <a href="https://github.com/calvinrahmat/Ankasa-backend" target="blank">https://github.com/calvinrahmat/Ankasa-backend</a>
 
 ```bash
 git clone https://github.com/Gustiana882/back-ticketing.git

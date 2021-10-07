@@ -1,11 +1,22 @@
-<p align="center"><img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg" width="200px" alt="Arkademylogo.svg" /></p>
+<h1 align="center">
+  App Ticketing
+</h1>
 
 <p align="center">
-    <a href="https://ankasa.online/" target="blank">View Demo</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/issues">Report Bug</a>
-  · <a href="https://github.com/Gustiana882/front-ticketing/pulls">Request Feature</a>
+  <a href="https://www.arkademy.com/auth/signup">
+    <img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="200px" alt="Arkademylogo.svg" />
+  </a>
+  <a href="https://www.fazztrack.com/">
+    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.db4c9cc.svg" width="200px" align="center" margin-bottom="15px" alt="Arkademylogo.svg" />
+  </a>
 </p>
-<hr/>
+
+<p align="center">
+    <a href="https://www.arkademy.com/" target="blank">Our Website</a>
+    ·
+    <a href="https://www.arkademy.com/auth/signup">Join With Us</a>
+    ·
+</p>
 
 |  |  |  |
 | :---: | :---: | :---: |
@@ -14,13 +25,15 @@
 |![screenshot_7](https://res.cloudinary.com/calvin-cloud/image/upload/v1633491654/Ankasa%20SS/Screenshot_from_2021-10-06_10-40-10_yspiy4.png) Profile | ![screenshot_8](https://res.cloudinary.com/calvin-cloud/image/upload/v1633488136/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_bcczuf.png) Chat  |![screenshot_9](https://res.cloudinary.com/calvin-cloud/image/upload/v1633488090/Ankasa%20SS/Screenshot_from_2021-10-05_20-38-28_k0phfr.png) Notifications  |
 
 
+## Description
+Angkasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
+
 ## :arrows_clockwise: Deployment Flow
 
 You can see this repo to learn about the deployment in Kubernetes:   <a href="https://github.com/calvinrahmat/k8s-install.git">Kubernetes Installation</a>
 
 
   <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1633333761/Blanja%20SS/CI_CD_Flow_page-0001_zykte4.jpg" width="400">
-
 
 
 ## 💻 Built with

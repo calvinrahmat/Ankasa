@@ -7,19 +7,16 @@
     <img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="200px" alt="Arkademylogo.svg" />
   </a>
   <a href="https://www.fazztrack.com/">
-    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.db4c9cc.svg" width="200px" align="center" margin-bottom="15px" alt="Arkademylogo.svg" />
+    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.db4c9cc.svg" width="200px" align="center" alt="Arkademylogo.svg" />
   </a>
 </p>
 
 <p align="center">
-    <a href="https://www.arkademy.com/" target="blank">Our Website</a>
-    ·
-    <a href="https://www.arkademy.com/auth/signup">Join With Us</a>
-    ·
+    <a href="https://ankasa.online/" target="blank">View Demo</a>
 </p>
 
 ## Description
-Angkasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
+Ankasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
 
 |  |  |  |
 | :---: | :---: | :---: |
